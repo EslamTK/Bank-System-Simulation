@@ -1,0 +1,52 @@
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\bin\Release\BankSystem.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\bin\Release\BankSystem.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Welcome.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.pdb
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Contact.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Exchange.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.MyAccount.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Registration.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Main.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.PayMent.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.TransferToEmail.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.PaymentService.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.exe
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.pdb
+D:\Projects\BankSystem\BankSystem\bin\Release\BankSystem.exe
+D:\Projects\BankSystem\BankSystem\bin\Release\BankSystem.pdb
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Contact.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.PaymentService.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.TransferToEmail.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Exchange.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Main.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.MyAccount.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.PayMent.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Properties.Resources.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Registration.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\BankSystem.Welcome.resources
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\BankSystem\BankSystem\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.exe
+D:\Projects\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.pdb
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.exe
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.pdb
+D:\Projects\Made\OOP\BankSystem\BankSystem\bin\Release\BankSystem.exe
+D:\Projects\Made\OOP\BankSystem\BankSystem\bin\Release\BankSystem.pdb
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.Contact.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.PaymentService.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.TransferToEmail.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.Main.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.MyAccount.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.PayMent.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.Properties.Resources.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.Registration.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.Welcome.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.Exchange.resources
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.csprojResolveAssemblyReference.cache
+D:\Projects\Made\OOP\BankSystem\BankSystem\obj\x86\Release\BankSystem.csproj.GenerateResource.Cache

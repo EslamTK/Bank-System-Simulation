@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.exe
+c:\users\admin\documents\visual studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.Welcome.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.Contact.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.Exchange.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.Registration.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\BankSystem\BankSystem\obj\x86\Debug\BankSystem.MyAccount.resources
